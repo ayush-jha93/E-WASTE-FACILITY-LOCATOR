@@ -1,0 +1,23 @@
+# PHP
+*.log
+*.cache
+.env
+.env.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Composer (if used in future)
+vendor/
+composer.lock
+
+# Node (if used in future)
+node_modules/
